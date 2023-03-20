@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/FTC",
-      "program": "d:/FTC/build/Debug/outDebug",
+      "cwd": "c:/Users/vinic/OneDrive/Documentos/ProjetoAFD/FTC",
+      "program": "c:/Users/vinic/OneDrive/Documentos/ProjetoAFD/FTC/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
